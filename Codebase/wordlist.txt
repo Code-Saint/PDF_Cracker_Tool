@@ -1,6 +1,6 @@
 123456
 password
-Ayush@131
+hello
 letmein
 admin
 secret
